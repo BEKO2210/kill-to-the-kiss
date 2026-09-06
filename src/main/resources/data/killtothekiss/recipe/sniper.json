@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GBB",
+    "SRB",
+    " I "
+  ],
+  "key": {
+    "B": {
+      "item": "killtothekiss:gun_barrel"
+    },
+    "S": {
+      "item": "killtothekiss:gun_stock"
+    },
+    "R": {
+      "item": "killtothekiss:gun_receiver"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "killtothekiss:sniper",
+    "count": 1
+  }
+}

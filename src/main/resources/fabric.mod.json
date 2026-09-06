@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "killtothekiss",
+	"version": "${version}",
+	"name": "Kill to the Kiss",
+	"description": "AK47, M16, UZI, Sniper and USP with ammo, reload animations and full crafting support.",
+	"authors": [
+		"Belkis"
+	],
+	"license": "MIT",
+	"icon": "assets/killtothekiss/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.belkis.killtothekiss.KillToTheKiss"
+		],
+		"client": [
+			"de.belkis.killtothekiss.client.KillToTheKissClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

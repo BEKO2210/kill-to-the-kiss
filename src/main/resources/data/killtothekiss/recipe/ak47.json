@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  B",
+    "SRP",
+    " I "
+  ],
+  "key": {
+    "B": {
+      "item": "killtothekiss:gun_barrel"
+    },
+    "S": {
+      "item": "killtothekiss:gun_stock"
+    },
+    "R": {
+      "item": "killtothekiss:gun_receiver"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "killtothekiss:ak47",
+    "count": 1
+  }
+}

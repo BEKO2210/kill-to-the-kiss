@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  B",
+    "SRI",
+    " I "
+  ],
+  "key": {
+    "B": {
+      "item": "killtothekiss:gun_barrel"
+    },
+    "S": {
+      "item": "killtothekiss:gun_stock"
+    },
+    "R": {
+      "item": "killtothekiss:gun_receiver"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "killtothekiss:m16",
+    "count": 1
+  }
+}

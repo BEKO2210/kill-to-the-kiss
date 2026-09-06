@@ -1,0 +1,153 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "killtothekiss:item/uzi"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1
+      ],
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1
+      ],
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -78,
+        6
+      ],
+      "translation": [
+        1.5,
+        1.2,
+        1.0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        78,
+        -6
+      ],
+      "translation": [
+        -1.5,
+        1.2,
+        1.0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "killtothekiss:fire": 0.34
+      },
+      "model": "killtothekiss:item/uzi_fire"
+    },
+    {
+      "predicate": {
+        "killtothekiss:reload": 0.001
+      },
+      "model": "killtothekiss:item/uzi_reload_0"
+    },
+    {
+      "predicate": {
+        "killtothekiss:reload": 0.34
+      },
+      "model": "killtothekiss:item/uzi_reload_1"
+    },
+    {
+      "predicate": {
+        "killtothekiss:reload": 0.67
+      },
+      "model": "killtothekiss:item/uzi_reload_2"
+    }
+  ]
+}

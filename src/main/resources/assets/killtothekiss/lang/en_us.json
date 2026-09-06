@@ -1,0 +1,20 @@
+{
+  "itemGroup.killtothekiss": "Kill to the Kiss",
+  "item.killtothekiss.ak47": "AK-47",
+  "item.killtothekiss.m16": "M16",
+  "item.killtothekiss.uzi": "UZI",
+  "item.killtothekiss.sniper": "Sniper Rifle",
+  "item.killtothekiss.usp": "USP Pistol",
+  "item.killtothekiss.pistol_ammo": "Pistol Ammo",
+  "item.killtothekiss.rifle_ammo": "Rifle Ammo",
+  "item.killtothekiss.sniper_ammo": "Sniper Ammo",
+  "item.killtothekiss.gun_barrel": "Gun Barrel",
+  "item.killtothekiss.gun_receiver": "Gun Receiver",
+  "item.killtothekiss.gun_stock": "Gun Stock",
+  "tooltip.killtothekiss.ammo": "Ammo: %s / %s",
+  "tooltip.killtothekiss.damage": "Damage: %s",
+  "tooltip.killtothekiss.firerate": "Rate of fire: %s rpm",
+  "tooltip.killtothekiss.reload": "Reload: [R] or Sneak + Right Click",
+  "key.killtothekiss.reload": "Reload weapon",
+  "category.killtothekiss": "Kill to the Kiss"
+}
