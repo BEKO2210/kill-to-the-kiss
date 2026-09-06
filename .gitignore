@@ -41,3 +41,4 @@ replay_*.log
 run/
 build/
 .gradle/
+bedrock/out/
